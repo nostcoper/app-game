@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nostcoper/app-game/static/css/main.1395875a.css",
+    "main.js": "/nostcoper/app-game/static/js/main.41cfe7be.js",
+    "static/js/787.fdb7cbb9.chunk.js": "/nostcoper/app-game/static/js/787.fdb7cbb9.chunk.js",
+    "index.html": "/nostcoper/app-game/index.html",
+    "main.1395875a.css.map": "/nostcoper/app-game/static/css/main.1395875a.css.map",
+    "main.41cfe7be.js.map": "/nostcoper/app-game/static/js/main.41cfe7be.js.map",
+    "787.fdb7cbb9.chunk.js.map": "/nostcoper/app-game/static/js/787.fdb7cbb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1395875a.css",
+    "static/js/main.41cfe7be.js"
+  ]
+}
