@@ -5,11 +5,10 @@ import { MenuInicio } from "./components/Inicio/inicio";
 import {ConfiguracionInicio} from "./components/Configuracion/Configuracion";
 import {Partida} from "./components/Partida/Partida"
 
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
-    <Router>
       <div className="App">
         <Routes>
           <Route path="/" element={<MenuInicio />} />
@@ -17,7 +16,6 @@ function App() {
           <Route path="/Partida" element={<Partida />} />
         </Routes>
       </div>
-    </Router>
   );
 }
 
