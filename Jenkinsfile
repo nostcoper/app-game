@@ -6,7 +6,7 @@ pipeline {
             steps {
                 // Ejecutar script predeploy
                 script {
-                    bat 'npm run predeploy'
+                    bat 'npm run start'
                 }
             }
         }
